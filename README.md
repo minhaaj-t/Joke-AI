@@ -2,6 +2,9 @@
 
 Joke AI is a fun and interactive web application that fetches jokes using a Joke API. It's built with **Next.js** and allows users to enjoy a collection of jokes with the power of AI.
 
+[Macbook-Air-kzmgdlalsnbwb7tjeu0m.lite.vusercontent.net-sdng4sby81qxmb.webm](https://github.com/user-attachments/assets/67876656-d3c2-4ab5-937f-54490edeb731)
+
+
 ## Getting Started
 
 To start the development server and begin building, run the following command in your terminal:
